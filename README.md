@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Data Science.
+- 🔭 &nbsp; I’m currently learning Automation and Robotics
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Robotics, computer programming and Mathematics.
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence and Machine Learninng .
